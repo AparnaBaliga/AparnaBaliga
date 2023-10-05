@@ -1,4 +1,10 @@
 ### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Hey Hey Heyyyy" src="[https://github.com/AparnaBaliga/AparnaBaliga/assets/124437620/88b4b510-c601-4a28-8f02-672deff0b085](https://inspirationfeed.com/wp-content/uploads/2022/12/Hello-memes11.jpg)
+">
+</picture>
 
 <!--
 **AparnaBaliga/AparnaBaliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
